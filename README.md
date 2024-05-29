@@ -18,14 +18,7 @@ Searching cities is supported by more than 200 languages.
 List of cities and flags from http://www.geonames.org .
  
 
-Main Activity|Detail Activity | Detail list
--------------|----------------- | -------------
-![alt text](screenshot/main.png "Main Activity")  | ![alt text](screenshot/detail.png "Detail Fragment") | ![alt text](screenshot/list.png "Hourly list")
 
-
-Search City|Settings Activity | Widget
--------------|----------------- | -------------
-![alt text](screenshot/add_city.png "Add new city")  | ![alt text](screenshot/settings.png "Settings Fragment") | ![alt text](screenshot/widget.png "Widget")
 
 
 
